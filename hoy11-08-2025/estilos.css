@@ -1,0 +1,51 @@
+body{
+    background-color: blue;
+}
+
+#contenido{
+    background-color: aliceblue;
+    width: 250px;
+    height: 350px;
+    margin: 0 auto;   
+}
+
+#contenido label{
+    display: block;
+    padding-left: 15px;
+
+}
+
+#contenido input[type="text"],
+#contenido input[type="password"]{
+    width: 90%;
+    padding: 5px;
+    border-bottom:1px solid black;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+
+    margin: 10px 2%;
+}
+
+#contenido input[type="submit"]{
+    width: 90%;
+    padding: 5px;
+    margin: 10px 4%;
+    background-color: rgb(200, 200, 200);
+    color: rgb(0, 0, 0);
+    border: black 1px solid;
+    
+}
+
+#contenido input[type="submit"]:hover{
+    background-color: yellow;
+    cursor: pointer;
+}
+
+#contenido input[type="text"]:focus,
+#contenido input[type="password"]:active{
+    border-bottom:1px solid black;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}

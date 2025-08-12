@@ -1,0 +1,11 @@
+aquí le envió el link del repositorio:
+https://github.com/ricmax945/tareas/tree/89a03c15064248df3db2e1375ea7137004d253d5/tarea1
+
+y los links a las paginas ya publicadas: 
+https://ricmax945.github.io/tareas/tarea1/yo.html
+https://ricmax945.github.io/tareas/tarea1/miciudad.html
+https://ricmax945.github.io/tareas/tarea1/mifamilia.html
+https://ricmax945.github.io/tareas/tarea1/misamigos.html
+https://ricmax945.github.io/tareas/tarea1/mishobbies.html
+https://ricmax945.github.io/tareas/tarea1/enviarmensaje.html
+
